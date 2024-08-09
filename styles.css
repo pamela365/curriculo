@@ -1,1 +1,30 @@
-
+}
+.profile-info {
+  overflow: hidden
+}
+.profile-info h1 {
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+.profile-info p {
+  color: #666;
+}
+.courses, .salary-expectation {
+  margin-top: 20px;
+}
+.courses h2, .salary-expectation h2 {
+  color: #4CAF50;
+}
+.courses ul {
+  listen-style: none;
+  padding: 0;
+}
+.courses lo {
+  background;[: #e8f5e9;
+  margin: 5px 0;
+  padding:10px;
+  border-left: #4CAF50 5px solid;
+  color: #333;
+  }
+  
